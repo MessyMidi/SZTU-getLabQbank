@@ -22,6 +22,7 @@ https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-cn
 替换/pathtochromedriver为你的ChromeDriver路径
 
 ### 3.使用😉
+爬取前需要自行输入题库id 找到你要爬取的题库页面 复制地址栏中`tikubh=`后面的数字（比如1111）粘贴进命令行回车即可
 由于~~时效性以及~~某些因素 我不能直接给出已经爬取的题库 但`你应该会用吧？`
 
 题库会直接输出到命令行 自行复制粘贴即可
