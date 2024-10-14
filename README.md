@@ -1,6 +1,6 @@
 # SZTU-getLabQbank
 深技大实验室测试题库爬取Python小脚本
-### 0.前言 💭
+### 0.前言 💭（图片显示不出来的请使用VPN）
 《关于两次模拟考试把试题都喂给ChatGPT-4o但是连80分都没有这件事》
 ![对称加密算法使用同一个密钥进行加解密](https://github.com/MessyMidi/SZTU-getLabQbank/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-13%20101517.png)
 对称加密算法使用同一个密钥进行加解密
